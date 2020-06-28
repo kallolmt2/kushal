@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Name": "Ceiling"
+  },
+  {
+    "Id": 2,
+    "Name": "Pedestal"
+  },
+  {
+    "Id": 3,
+    "Name": "Table"
+  }
+]
